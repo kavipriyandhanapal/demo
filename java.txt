@@ -2,4 +2,8 @@ java
 main{
 
 hi}
+<<<<<<< HEAD
+helo
+=======
 hello
+>>>>>>> c9783dabe243131c4ca631f96f99c450de3af46a
